@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "NOT YOUR GIRL",
+  "base_artist": "IVE",
+  "createdAt": "2026-02-27T20:04:09.952477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Not Your Girl",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/01_I'm_Not_Your_Girl_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NOT YOUR GIRL",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/02_NOT_YOUR_GIRL_IVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Not Your Girl",
+      "artist": "GNZ48",
+      "has_synced": false,
+      "path": "select/03_I'm_Not_Your_Girl_GNZ48.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Im Not Your Girl",
+      "artist": "GNZ48",
+      "has_synced": false,
+      "path": "select/04_Im_Not_Your_Girl_GNZ48.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NOT YOUR GIRL",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/05_NOT_YOUR_GIRL_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NOT YOUR GIRL",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/06_NOT_YOUR_GIRL_IVE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Not Your Girl",
+      "artist": "RAINBOW",
+      "has_synced": false,
+      "path": "select/07_Not_Your_Girl_RAINBOW.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Not Your Girl",
+      "artist": "Estrons",
+      "has_synced": true,
+      "path": "select/08_I'm_Not_Your_Girl_Estrons.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Not Your Girl",
+      "artist": "Reba",
+      "has_synced": false,
+      "path": "select/09_I'm_Not_Your_Girl_Reba.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Not Your Girl",
+      "artist": "Bree Sharp",
+      "has_synced": false,
+      "path": "select/10_Not_Your_Girl_Bree_Sharp.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Not Your Girl",
+      "artist": "Tiera Kennedy",
+      "has_synced": true,
+      "path": "select/11_Not_Your_Girl_Tiera_Kennedy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Not Your Girl",
+      "artist": "Kennedy, Tiera",
+      "has_synced": true,
+      "path": "select/12_Not_Your_Girl_Kennedy,_Tiera.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Not Your Girl",
+      "artist": "Mona Lisa",
+      "has_synced": false,
+      "path": "select/13_I'm_Not_Your_Girl_Mona_Lisa.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Not Your Girl",
+      "artist": "Bonner Black",
+      "has_synced": true,
+      "path": "select/14_I'm_Not_Your_Girl_Bonner_Black.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Not Your Girl",
+      "artist": "Fur Patrol",
+      "has_synced": false,
+      "path": "select/15_Not_Your_Girl_Fur_Patrol.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Not Your Girl",
+      "artist": "AE",
+      "has_synced": true,
+      "path": "select/16_Not_Your_Girl_AE.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Not Your Girl (Not Your Girl)",
+      "artist": "RAINBOW",
+      "has_synced": true,
+      "path": "select/17_Not_Your_Girl_(Not_Your_Girl)_RAINBOW.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'm Not Your Girl",
+      "artist": "Lalaine",
+      "has_synced": false,
+      "path": "select/18_I'm_Not_Your_Girl_Lalaine.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOT YOUR GIRL",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_NOT_YOUR_GIRL_IVE.txt"
+    }
+  ]
+}
